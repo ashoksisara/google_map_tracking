@@ -4,7 +4,6 @@
 
 ### Screenshots
 
-![ss_1](https://user-images.githubusercontent.com/48236083/210344020-9d94e60c-fb66-45bf-ac7c-e6af0de167c7.jpg)
-![ss_2](https://user-images.githubusercontent.com/48236083/210344034-92b723e3-c862-45e5-a410-0d104d78559b.jpg)
+![ss1](https://user-images.githubusercontent.com/48236083/210344853-4d5f8db6-4f4b-46a8-8d89-a1e9c869e362.jpg)
 
-
+![ss2](https://user-images.githubusercontent.com/48236083/210344898-750d4bce-fffa-4d84-9339-747911f7010d.jpg)
